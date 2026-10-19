@@ -4,7 +4,7 @@
 
 **A 24-second adaptation of the classroom incident in *Snowmoon*, Chapter 2, by Vitalik Buterin. English captions and recorded CC0 effects; no spoken voices.**
 
-[Watch/download the film](The-Lesson-CC0-SFX-English-captions-1080p120.mp4) · [Video player](index.html) · [Download the editable production package](The-Lesson-v8-source-GPL3.zip)
+[Watch/download the film](The-Lesson-CC0-SFX-English-captions-1080p120.mp4) · [Video player](https://promarty.github.io/snowmoon-the-lesson/) · [Download the editable production package](The-Lesson-v8-source-GPL3.zip)
 
 Adaptation production: **ProMartY, with OpenAI Codex assistance**. Original novel: [Vitalik Buterin — Snowmoon](https://vitalik.eth.limo/snowmoon/), [Chapter 2](https://vitalik.eth.limo/snowmoon/html/chapter-2.html).
 
