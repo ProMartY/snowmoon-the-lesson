@@ -1,0 +1,49 @@
+{
+  "title": "The Lesson",
+  "version": "v8-caption-effects",
+  "original_novel": "Snowmoon Chapter 2 — Vitalik Buterin",
+  "production": "ProMartY, with OpenAI Codex assistance",
+  "picture_and_original_code_license": "GPL-3.0-only",
+  "source_recordings_license": "CC0-1.0",
+  "language": "English captions",
+  "spoken_voices": false,
+  "format": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 120,
+    "duration_seconds": 24,
+    "frames": 2880
+  },
+  "files": [
+    {
+      "path": "The-Lesson-CC0-SFX-English-captions-1080p120.mp4",
+      "bytes": 6110486,
+      "sha256": "98ab632ea6b6286a2e91028110be99fa2f2a14d42bf4930e7965bddfd44672a8"
+    },
+    {
+      "path": "The-Lesson-v8-source-GPL3.zip",
+      "bytes": 5011655,
+      "sha256": "0fd38cbb9105ec915ed353d4f0ce347b65f7b76808933297e8b6867040dd1971"
+    },
+    {
+      "path": "poster.png",
+      "bytes": 1077140,
+      "sha256": "0f6a43305e3086f3c5c30923b348c621208bab20eddb98374cb61a46c1861d3a"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3117,
+      "sha256": "e2f662cb48cc87ed224eea036de8a198d7299250f8904f9addaf6db398b692bd"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1474,
+      "sha256": "3290a30f1e680ac52add149551ba3bae8d3c2ebc5040bcd14753b6b8e89a20bd"
+    }
+  ]
+}
